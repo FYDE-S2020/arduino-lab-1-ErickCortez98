@@ -1,6 +1,8 @@
 /*
   Blink
 
+  //Submimt again part 4, submit image 1, submit part 9, submit image two, make a link to both images in the report.md
+
   Turns an LED on for one second, then off for one second, repeatedly.
 
   Most Arduinos have an on-board LED you can control. On the UNO, MEGA and ZERO
@@ -49,10 +51,35 @@ void dimmer(int freq, int duty) {
 
 // the loop function runs over and over again forever
 void loop() {
-  int interval = 250;
+  /*int interval = 250;
   while(interval <= 1000){
     timedBlink(interval);  
     interval *= 2;                
-    }
+    }*/
+
     
+  /*int j = 0;
+  for(int i = 0; i < 100; i++){
+    dimmer(100 - (10*j), i);
+    if(j < 10){
+      j++;
+      }
+  }
+  j = 0;
+  for(int i = 100; i > 0; i--){
+    dimmer(100 - (10*j), i);
+    if(j < 10){
+      j++;
+      }
+  }*/
+
+  for(int i = 0; i < 100; i++){
+    dimmer(100, i);
+  }
+  for(int i = 100; i > 0; i--){
+    dimmer(100, i);
+   
+  }
+
+
 }
