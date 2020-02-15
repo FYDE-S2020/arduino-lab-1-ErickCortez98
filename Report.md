@@ -68,13 +68,13 @@ Team Number: 14
 ## Screenshots
 
 Procedure A, step 1:
-(img/Lab 1 Image 1.png)
+img/Lab 1 Image 1.png
 
 Procedure A, step 4:
-(img/Lab 1 Image 2.png)
+img/Lab 1 Image 2.png
 
 Procedure B, UART:
-(img/Lab 1 Image 3.png)
+img/Lab 1 Image 3.png
 
 Procedure B, SPI:
-(img/Lab 1 Image 4.png)
+img/Lab 1 Image 4.png
