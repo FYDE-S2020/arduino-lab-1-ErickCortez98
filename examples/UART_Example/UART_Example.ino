@@ -9,7 +9,7 @@ Very impotant to use the correct version!
 
 */
 
-
+// 5.52 ms 
 void setup()
 {
     Serial.begin(115200);
