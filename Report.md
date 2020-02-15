@@ -66,15 +66,14 @@ Team Number: 14
     To connect a power supply so that when the bus is idle, the lines are on high power. 
 
 ## Screenshots
-
 Procedure A, step 1:
-img/Lab 1 Image 1.png
+![Put path to your image here ->](img/Lab1Image1.png)
 
 Procedure A, step 4:
-img/Lab 1 Image 2.png
+![Put path to your image here ->](img/Lab1Image2.png)
 
 Procedure B, UART:
-img/Lab 1 Image 3.png
+![Put path to your image here ->](img/Lab1Image3.png)
 
 Procedure B, SPI:
-img/Lab 1 Image 4.png
+![Put path to your image here ->](img/Lab1Image4.png)
